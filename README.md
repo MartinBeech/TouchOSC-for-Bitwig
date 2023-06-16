@@ -13,7 +13,6 @@ It’s for use on tablets or other compatible touch screen devices with a simila
 
 You will need to have:
 -	Bitwig with an appropriate version of the [DrivenByMoss extension](https://www.mossgrabers.de/Software/Bitwig/Bitwig.html) installed and setup to talk with TouchOSC
--	
 -	TouchOSC setup to talk to your PC and / or tablet or device
 -	*Follow the respective manufacturer's instructions for these products*
 
@@ -63,7 +62,7 @@ For the selected track
 ### Launcher
 -	Layout is per Bitwig’s *Arrange* view, with Scenes in columns and Tracks in rows.
 -	Playing clips are highlighted, queuing clips are shown with a border
--	Scene play (clicking on a scene’s name with play / queue all the clips in that scene)
+-	Scene play (clicking on a scene’s name will play / queue all the clips in that scene)
 -	Track stop (clicking on a track’s name will queue a stop for that track’s playing clip)
 -	Clip play (clicking on a clip will play / queue that clip)
 
