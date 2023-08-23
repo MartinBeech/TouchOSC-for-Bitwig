@@ -9,7 +9,7 @@ It’s been designed / grown around principles of minimalism & simplicity: How f
 It’s for use on tablets or other compatible touch screen devices with a similar, or larger, screen size.  I’ve tried to make all interactive design elements easy enough to hit with a finger tip, my reference device for this is my 10.4” 1800x1000 pixel Samsung S6 Lite. 
 
 ## Setup
-**TOP for BW4** is for use with Bitwig v4.4.x – a version for Bitwig 5 will follow shortly
+**TOP for BW5** is for use with Bitwig v5.0.x only
 
 You will need to have:
 -	Bitwig with an appropriate version of the [DrivenByMoss extension](https://www.mossgrabers.de/Software/Bitwig/Bitwig.html) installed and setup to talk with TouchOSC
