@@ -9,7 +9,8 @@ It’s been designed / grown around principles of minimalism & simplicity: How f
 It’s for use on tablets or other compatible touch screen devices with a similar, or larger, screen size.  I’ve tried to make all interactive design elements easy enough to hit with a finger tip, my reference device for this is my 10.4” 1800x1000 pixel Samsung S6 Lite. 
 
 ## Setup
-**TOP for BW5** is for use with Bitwig v5.0.x only
+**TOP for BW4** is for use with Bitwig v4.4.x only, and is not being developed or maintained further.
+**TOP for BW5** is for use with Bitwig v5.0.x only.
 
 You will need to have:
 -	Bitwig with an appropriate version of the [DrivenByMoss extension](https://www.mossgrabers.de/Software/Bitwig/Bitwig.html) installed and setup to talk with TouchOSC
@@ -64,7 +65,8 @@ For the selected track
 -	Playing clips are highlighted, queuing clips are shown with a border
 -	Scene play (clicking on a scene’s name will play / queue all the clips in that scene)
 -	Track stop (clicking on a track’s name will queue a stop for that track’s playing clip)
--	Clip play (clicking on a clip will play / queue that clip)
+-	Clip Launch (clicking on a clip will play / queue that clip according to Bitwig's Laun Quantisation & Mode settings)
+-	*New: * Clip Release (clicking a playing clip will execute the Release action (if any) you have selected in Bitwig
 
 ## License
 This project is licensed under the MIT license
